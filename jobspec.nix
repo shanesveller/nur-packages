@@ -17,7 +17,7 @@
         "keepnr": 10,
         "inputs": {
           "src": { "type": "git", "value": "https://github.com/shanesveller/nur-packages.git develop", "emailresponsible": false },
-          "nixpkgs": { "type": "git", "value": "https://github.com/nixos/nixpkgs-channels nixos-19.03", "emailresponsible": false }
+          "nixpkgs": { "type": "git", "value": "https://github.com/nixos/nixpkgs release-19.03", "emailresponsible": false }
         }
     }
 
